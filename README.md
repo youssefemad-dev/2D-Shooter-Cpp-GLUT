@@ -22,6 +22,6 @@ A 2D shooter game built with C++ and OpenGL GLUT. Features include character con
 
 ## Controls
 - patrick moves by the "arrow" keys and shoots with "space" key
-- sponge moves by the "asdw keys" and shoots with "e" key
+- sponge moves by the "asdw" keys and shoots with "e" key
 
 
