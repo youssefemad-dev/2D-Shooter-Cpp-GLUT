@@ -19,3 +19,9 @@ A 2D shooter game built with C++ and OpenGL GLUT. Features include character con
 ## 🚀 How to Run
 1. Make sure OpenGL/GLUT library is installed on your visual studio 2022.
 2. Copy the ccp code on your consoleApliication file and Compile the code
+
+## Controls
+patrick moves by the "arrow" keys and shoots with "space" key
+sponge moves by the "asdw keys" and shoots with "e" key
+
+
